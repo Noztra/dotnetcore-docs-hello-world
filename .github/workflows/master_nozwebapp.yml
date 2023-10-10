@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'NozWebApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_09A03F3A70F647F98DF53FCFFC05CEA0 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E87DCBF7C8C9472DAB05F5781FF20394 }}
           package: .
